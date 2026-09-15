@@ -14,6 +14,14 @@
 
 ![像素裁剪工作台](docs/images/image-cropper.png)
 
+## 下载
+
+免安装版本在 [Releases](https://github.com/xuanxuanjushi/Image-Pixel-Cropper/releases/latest) 页面：
+
+| 文件 | 说明 |
+| --- | --- |
+| Image-Pixel-Cropper-1.0.0-windows.exe | 单文件免安装版，双击即用 |
+
 ## 功能
 
 - **导入**：点击「选择图片」，或直接把图片拖进窗口，支持常见图片格式
