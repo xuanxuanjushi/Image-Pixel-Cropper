@@ -6,6 +6,8 @@
 >
 > A local tool for cropping, framing and exporting images at an exact pixel size, with drag-and-drop import, centre scaling, white padding and local watermark repair.
 
+> 关键词：图片裁剪、精确尺寸、水印修复、商品图、白底图 / Keywords: image crop, resize, exact pixel size, watermark removal, product image, white background, Tkinter
+
 [简体中文](#界面预览) | [English](#english)
 
 ## 界面预览
