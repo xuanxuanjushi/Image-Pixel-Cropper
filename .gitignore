@@ -1,0 +1,15 @@
+# Python 运行产物
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包环境与产物
+.venv-build/
+build/
+dist/
+backup/
+
+# 日志与本机临时文件
+*.log
+Thumbs.db
+desktop.ini
